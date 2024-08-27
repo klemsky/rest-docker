@@ -1,6 +1,6 @@
 # rest-docker
-This app is to fetch total marks of every Mezink students in the record tables of Mezink database.
-The database and sample data are pre-defined using docker. 
+This app is responsible to fetch total marks of every Mezink students in the record tables of Mezink database.
+The database and sample data are pre-defined using docker.
 
 Pre-requisite:
 1. Docker installed on your OS
