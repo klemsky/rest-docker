@@ -8,7 +8,7 @@ Pre-requisite:
 3. Golang (optional)
 
 How to run the app:
-1. Simply run ```docker compose up --build```. Application will run on the your local on port: 8080
+1. Simply run ```docker compose up --build```. Application will be built & run in your local on port: 8080
 2. Hit the endpoint using below contract attached on google docs.
 3. To stop the service, run ```docker compose down``` or ```docker compose down -v``` (to remove the docker containers completely), and then run docker compose on point (1) to build & run the app again.
 
