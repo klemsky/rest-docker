@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "f9d8b587-303e-4b62-8300-22f81b3ab1e0",
+		"name": "Mezink - Record Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37265464"
+	},
+	"item": [
+		{
+			"name": "Fetch Records",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"startDate\": \"2024-08-26\",\n    \"endDate\": \"2024-08-27\",\n    \"minCount\": 100,\n    \"maxCount\": 300\n}\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/api/records",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"records"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
