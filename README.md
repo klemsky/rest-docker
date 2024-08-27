@@ -1,6 +1,6 @@
 # rest-docker
 This app is to fetch total marks of every Mezink students in the record tables of Mezink database.
-The database and sample data are pre-defined using docker.
+The database and sample data are pre-defined using docker. 
 
 Pre-requisite:
 1. Docker installed on your OS
@@ -14,3 +14,5 @@ How to run the app:
 
 Here is the API contract of the records API:
 https://docs.google.com/document/d/1X0n1H1t-1v_lWIxcB9FIHhsxrvJaoPfRuyI8EPozQ-k/edit?usp=sharing
+
+You can import a Postman collection by downloading the ```postman.json``` file inside this repository and try import it using Postman application.
