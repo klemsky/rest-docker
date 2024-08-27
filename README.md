@@ -13,4 +13,4 @@ How to run the app:
 3. To stop the service, run ```docker compose down``` or ```docker compose down -v``` (to remove the docker containers completely), and then run docker compose on point (1) to build & run the app again.
 
 Here is the API contract of the records API:
-https://docs.google.com/document/d/1dF-LNngEvJEuvYZiBp7s-NEzpu08iZ5GoHdHGbNsVfw/edit?usp=sharing
+https://docs.google.com/document/d/1X0n1H1t-1v_lWIxcB9FIHhsxrvJaoPfRuyI8EPozQ-k/edit?usp=sharing
